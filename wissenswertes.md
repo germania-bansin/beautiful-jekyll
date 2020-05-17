@@ -183,10 +183,9 @@ Wir wechseln Ihnen jede Woche die Bettwäsche und täglich die Handtücher, die 
 ## WLAN
 Unser WLAN erreichen Sie wie auf dem Aufsteller angegeben. Entweder mit einem einfachen QR-Code oder aber mit folgenden Zugangsdaten:
 
-| SSID | Netzwerkschlüssel (Kennwort)  |
-| ---- | ---- |
+| SSID | Netzwerkschlüssel (Kennwort) |
+| ----- | ----- |
 | Germania Gast | germaniabansin |
-
 <br/>
 
 ## Zeitungen
