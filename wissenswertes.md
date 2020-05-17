@@ -16,9 +16,10 @@ Neben Strand, Baden und Burgen bauen bieten sich zahlreiche andere Aktivitäten 
 Sie erreichen uns im PKW mit der Navigation Bergstr. 35. Aber auch die Fernbusse (ab Hamburg / Berlin) sowie die Züge als auch der Flughafen bringen Sie sicher von Ihrem Zu Hause auf unsere Insel. Vom Bahnhof oder vom Flughafen holen wir Sie gerne auch kostenlos ab!
 
 ## Apotheke
-- Fontane-Apotheke, Seestr. 4, Bansin | 038378/31949
-- Apotheke Heringsdorf, Seestr. 40, Heringsdorf | 038378/2590
-- Vineta Apotheke, Schulstraße 1, Koserow | 038375/20726
+
+| Fontane-Apotheke | Seestr. 4, Bansin | 038378/31949 |
+| Apotheke Heringsdorf | Seestr. 40, Heringsdorf | 038378/2590 |
+| Vineta Apotheke | Schulstraße 1, Koserow | 038375/20726 |
 
 ## Ärzte
 - Allgemeinmedizin Gemeinschaftspraxis Dr. Blücher: 038378/29406
