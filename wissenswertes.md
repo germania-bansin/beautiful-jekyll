@@ -114,11 +114,12 @@ Wir kennen die spontane Lust auf Snacks oder den Impuls mit dem Lieblingsmensche
 
 ## Notfallnummern
 
-| Name | Nummer |
-| ------- | ------- |
-| Feuerwehr | 112 |
-| Polizei Heringsdorf | 038378 / 2790 |
-| Bereitschaftsärzte | 116117 |
+
+| Name                | Nummer         |
+| -------             | ------- |
+| Feuerwehr           | 112 |
+| Polizei Heringsdorf | 038378 / 2790  |
+| Bereitschaftsärzte  | 116117 |
 | Taxi Herr Brinkmann | 038378 / 29109 |
 | Notfallnummer Hotel | 0151-157 27 944 |
 
@@ -129,6 +130,7 @@ Wir kennen die spontane Lust auf Snacks oder den Impuls mit dem Lieblingsmensche
 - Optik Wendlandt, Seestr. 41, Heringsdorf, 038378/31603
 - Hörgeräte Kind, Delbrückstr. 3, Heringsdorf, 038378/22383
 
+<br/>
 
 ## Parken
 Wir verfügen am Haus nur über wenige Parkplätze. Wir haben zusätzliche Flächen in wenigen Gehminuten Entfernung, aber auch zwei Tiefgaragenplätze für Sie angemietet. Die Parkplätze stellen wir Ihnen für einen Tagespreis von 6€ bzw. 8€ gerne zur Verfügung.
