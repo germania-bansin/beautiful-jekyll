@@ -162,13 +162,13 @@ Ihre Zimmertelefone sind für deutschlandweite Gespräche freigeschaltet. Die Ge
 Bitte wählen Sie eine führende „0“, um aus der internen Telefonanlage herauswählen zu können.
 Interne Gespräche sind unter folgenden Nummern möglich:
 
-
 | Teilnehmer    | Durchwahl |
 | ----          | ----      |
 | Rezeption     | 9         |
 | Restaurant    | 41        |
 |	Zimmer Nr. XY	| XY (also z.B. 25) |
 
+<br/>
 
 ## Tourist-Information
 An der Seebrücke finden Sie das Haus des Gastes, deren Mitarbeiter Ihnen bzgl. weiterer Programmpunkte, insbesondere aktueller Veranstaltungen und Ortsführungen gerne weiterhilft. Sie erreichen das Büro telefonisch unter: 038378 / 47050
@@ -185,7 +185,7 @@ Unser WLAN erreichen Sie wie auf dem Aufsteller angegeben. Entweder mit einem ei
 | SSID | Netzwerkschlüssel (Kennwort)  |
 | ---- | ---- |
 | Germania Gast | germaniabansin |
-
+<br/>
 
 ## Zeitungen
 An der Rezeption und im Frühstücksraum haben wir Ihnen eine kleine Auswahl von regionalen und überregionalen Tageszeitungen zu Ihrer Verfügung ausgelegt. Bitte denken Sie daran, diese unseren anderen Gästen nach Gebrauch ebenfalls wieder zu überlassen.
