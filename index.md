@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Hotel Germania
 subtitle: DÜRFEN WIR UNS VORSTELLEN?
 ---
 
