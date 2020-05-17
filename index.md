@@ -1,13 +1,11 @@
 ---
 ---
 
-<img src="/assets/img/logo-hotel-germania-breit.png" title="Germania logo" alt="Germania logo" />
-
-# DÜRFEN WIR UNS VORSTELLEN?
+## DÜRFEN WIR UNS VORSTELLEN?
 
 Wir sind ein familiengeführtes Hotel mit enger Verflechtung in die Geschichte des Seebades. 
 
-In Familiengemeinschaft führt Barbara Jörg als Enkelin des Hotel-Bauherrn gemeinsam mit ihren beiden Söhnen Torsten Mohrbach und Steffen Jörg, das Unternehmen mit Leidenschaft und Freude.
+Barbara Jörg führt als Enkelin des Hotel-Bauherrn gemeinsam mit ihren beiden Söhnen Torsten Mohrbach und Steffen Jörg das Unternehmen mit viel Leidenschaft und Freude.
 Unsere Mitarbeiter und Mitarbeiterinnen halten uns schon lange die Treue. Inzwischen sogar schon über mehrere Generationen hinweg.
 
 Dieser ganz persönliche familiäre Charakter, aber natürlich auch die einzigartige Lage, die liebevolle Architektur des Hauses sowie die faszinierende Umgebung sind hoffentlich der richtige Rahmen, in dem Sie eine schöne, eindrückliche und erholsame Zeit hier verbringen können.
@@ -17,7 +15,5 @@ Zögern Sie bitte nicht, uns anzusprechen, falls Ihnen etwas auf dem Herzen lieg
 Aber zunächst: Genießen Sie Ihre Tage im Hotel Germania!
 
 Herzlichst,
-
-
 
 Familie Jörg/Mohrbach
