@@ -115,6 +115,13 @@ Wir kennen die spontane Lust auf Snacks oder den Impuls mit dem Lieblingsmensche
 ## Notfallnummern
 
 
+| Name | Nummer  |
+| ---- | ---- |
+| Feuerwehr | 112 |
+| Polizei Heringsdorf | 038378-2390 |
+| Bereitschaftsärzte | 116 117 |
+
+
 | Name                | Nummer         |
 | -------             | ------- |
 | Feuerwehr           | 112 |
