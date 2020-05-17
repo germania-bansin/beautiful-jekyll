@@ -146,10 +146,11 @@ Taxi Brinkmann		038378 / 29109
 Ihre Zimmertelefone sind für deutschlandweite Gespräche freigeschaltet. Die Gebühren hierfür werden minutengenau erfasst und Ihnen beim Check-Out berechnet.
 Bitte wählen Sie eine führende „0“, um aus der internen Telefonanlage herauswählen zu können.
 Interne Gespräche sind unter folgenden Nummern möglich:
-| Teilnehmer | Durchwahl |
-| --- | --- |
-| Rezeption  | 9 |
-| Restaurant | 41 |
+
+| Teilnehmer    | Durchwahl |
+| ----          | ----      |
+| Rezeption     | 9         |
+| Restaurant    | 41        |
 |	Zimmer Nr. XY	| XY (also z.B. 25) |
 
 ## Tourist-Information
@@ -164,8 +165,8 @@ Wir wechseln Ihnen jede Woche die Bettwäsche und täglich die Handtücher, die 
 ## WLAN
 Unser WLAN erreichen Sie wie auf dem Aufsteller angegeben. Entweder mit einem einfachen QR-Code oder aber mit folgenden Zugangsdaten:
 
-| SSID: | Netzwerkschlüssel (Kennwort):  |
-| --- | ---- |
+| SSID | Netzwerkschlüssel (Kennwort)  |
+| ---- | ---- |
 | Germania Gast | germaniabansin |
 
 ## Zeitungen
