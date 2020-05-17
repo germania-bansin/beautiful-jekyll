@@ -1,7 +1,8 @@
 ---
+title: DÜRFEN WIR UNS VORSTELLEN?
 ---
 
-## DÜRFEN WIR UNS VORSTELLEN?
+<!-- ## DÜRFEN WIR UNS VORSTELLEN? -->
 
 Wir sind ein familiengeführtes Hotel mit enger Verflechtung in die Geschichte des Seebades. 
 
