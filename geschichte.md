@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Geschichte
 ---
 
 ## Ein Haus mit Geschichte
