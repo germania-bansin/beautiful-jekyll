@@ -1,5 +1,6 @@
 ---
-title: DÜRFEN WIR UNS VORSTELLEN?
+layout: page
+subtitle: DÜRFEN WIR UNS VORSTELLEN?
 ---
 
 <!-- ## DÜRFEN WIR UNS VORSTELLEN? -->
