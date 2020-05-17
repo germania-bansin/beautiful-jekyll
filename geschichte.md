@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Geschichte
+subtitle: DÜRFEN WIR AUS DEM NÄHKÄSTCHEN PLAUDERN?
 ---
 
 ## Ein Haus mit Geschichte
