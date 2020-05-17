@@ -118,19 +118,13 @@ Wir kennen die spontane Lust auf Snacks oder den Impuls mit dem Lieblingsmensche
 | Name | Nummer  |
 | ---- | ---- |
 | Feuerwehr | 112 |
-| Polizei Heringsdorf | 038378-2390 |
+| Polizei Heringsdorf | 038378 / 2390 |
 | Bereitschaftsärzte | 116 117 |
 | Taxi Herr Brinkmann | 038378 / 29109 |
 | Notfallnummer Hotel | 0151-157 27 944 |
 
 <br/>
-| Name                | Nummer         |
-| -------             | ------- |
-| Feuerwehr           | 112 |
-| Polizei Heringsdorf | 038378 / 2790  |
-| Bereitschaftsärzte  | 116117 |
-| Taxi Herr Brinkmann | 038378 / 29109 |
-| Notfallnummer Hotel | 0151-157 27 944 |
+
 
 ## Optiker / Hörgeräte
 
