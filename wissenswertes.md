@@ -17,9 +17,9 @@ Sie erreichen uns im PKW mit der Navigation Bergstr. 35. Aber auch die Fernbusse
 
 ## Apotheke
 
-| Fontane-Apotheke | Seestr. 4, Bansin | 038378/31949 |
-| Apotheke Heringsdorf | Seestr. 40, Heringsdorf | 038378/2590 |
-| Vineta Apotheke | Schulstraße 1, Koserow | 038375/20726 |
+- Fontane-Apotheke, Seestr. 4, Bansin, 038378/31949
+- Apotheke Heringsdorf, Seestr. 40, Heringsdorf, 038378/2590
+- Vineta Apotheke, Schulstraße 1, Koserow, 038375/20726
 
 ## Ärzte
 - Allgemeinmedizin Gemeinschaftspraxis Dr. Blücher: 038378/29406
@@ -33,8 +33,8 @@ Gegen eine Einmalgebühr erhalten Sie dieses bei der Rezeption. (Voranmeldung er
 Bitte geben Sie uns rechtzeitig Bescheid, wir organisieren für Sie einen Schuttleservice. Kostenfrei!
 
 ## Bankautomaten / EC-Automat
-Sparkasse: Hotel zur Post, Seestr. 5
-Volksbank: Seestr. 14
+- Sparkasse: Hotel zur Post, Seestr. 5
+- Volksbank: Seestr. 14
 
 ## Check-In
 Ab 14:00 Uhr stehen Ihnen in der Regel unsere Zimmer zur Verfügung. Je nach Auslastung haben Sie -gerade im Winter- auch die Möglichkeit, die Zimmer früher zu beziehen. Fragen Sie kurz vor Ihrer Anreise nochmals telefonisch nach.
@@ -106,6 +106,8 @@ Aber machen Sie auch unbedingt einen Ausflug zum Waterblick, zu Café Knatter, z
 Wir kennen die spontane Lust auf Snacks oder den Impuls mit dem Lieblingsmenschen genau jetzt eine kleine Flasche Sekt zu teilen. Dafür dürfen Sie sich gerne an der Bar gegen einen kleinen Beitrag bedienen. Sagen Sie uns auch unbedingt Bescheid, wenn wir etwas mehr auffüllen dürfen. Die Preisliste finden Sie im [Anhang](./minibar).
 
 ## Notfallnummern
+| Name | Nummer |
+| --- | --- |
 |Feuerwehr | 112 |
 |Polizei Heringsdorf | 038378 / 2790 |
 |Bereitschaftsärzte | 116117 |
@@ -113,8 +115,8 @@ Wir kennen die spontane Lust auf Snacks oder den Impuls mit dem Lieblingsmensche
 |Notfallnummer Hotel | 0151-157 27 944 |
 
 ## Optiker / Hörgeräte
-- Optik Wendlandt, Seestr. 41, Heringsdorf  |  038378/31603
-- Hörgeräte Kind, Delbrückstr. 3, Heringsdorf  |  038378/22383
+- Optik Wendlandt, Seestr. 41, Heringsdorf, 038378/31603
+- Hörgeräte Kind, Delbrückstr. 3, Heringsdorf, 038378/22383
 
 ## Parken
 Wir verfügen am Haus nur über wenige Parkplätze. Wir haben zusätzliche Flächen in wenigen Gehminuten Entfernung, aber auch zwei Tiefgaragenplätze für Sie angemietet. Die Parkplätze stellen wir Ihnen für einen Tagespreis von 6€ bzw. 8€ gerne zur Verfügung.
@@ -144,7 +146,9 @@ Taxi Brinkmann		038378 / 29109
 Ihre Zimmertelefone sind für deutschlandweite Gespräche freigeschaltet. Die Gebühren hierfür werden minutengenau erfasst und Ihnen beim Check-Out berechnet.
 Bitte wählen Sie eine führende „0“, um aus der internen Telefonanlage herauswählen zu können.
 Interne Gespräche sind unter folgenden Nummern möglich:
-|	Rezeption  | 9 |
+| Teilnehmer | Durchwahl |
+| --- | --- |
+| Rezeption  | 9 |
 | Restaurant | 41 |
 |	Zimmer Nr. XY	| XY (also z.B. 25) |
 
@@ -159,8 +163,10 @@ Wir wechseln Ihnen jede Woche die Bettwäsche und täglich die Handtücher, die 
 
 ## WLAN
 Unser WLAN erreichen Sie wie auf dem Aufsteller angegeben. Entweder mit einem einfachen QR-Code oder aber mit folgenden Zugangsdaten:
-| SSID: | Germania Gast |
-| Netzwerkschlüssel (Kennwort): | germaniabansin |
+
+| SSID: | Netzwerkschlüssel (Kennwort):  |
+| --- | ---- |
+| Germania Gast | germaniabansin |
 
 ## Zeitungen
 An der Rezeption und im Frühstücksraum haben wir Ihnen eine kleine Auswahl von regionalen und überregionalen Tageszeitungen zu Ihrer Verfügung ausgelegt. Bitte denken Sie daran, diese unseren anderen Gästen nach Gebrauch ebenfalls wieder zu überlassen.
