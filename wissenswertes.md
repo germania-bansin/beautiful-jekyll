@@ -98,7 +98,7 @@ Mit der Kutsche zum Forsthaus Fangel. Entspannen bei einer Fahrt durch den schö
 - Minimarkt im Kaiserstrand Beachhotel
 - REWE im Seepark
 - LIDL an der B111
-
+<br/>
 
 ## Lieblingsplätze
 Claudia Pautz hat ein wunderschönes Buch über tolle Plätze hier auf der Insel geschrieben. Gerne verkaufen wir es Ihnen an der Rezeption. 
@@ -115,13 +115,14 @@ Wir kennen die spontane Lust auf Snacks oder den Impuls mit dem Lieblingsmensche
 ## Notfallnummern
 
 | Name | Nummer |
-| --- | --- |
-|Feuerwehr | 112 |
-|Polizei Heringsdorf | 038378 / 2790 |
-|Bereitschaftsärzte | 116117 |
-|Taxi Herr Brinkmann | 038378 / 29109 |
-|Notfallnummer Hotel | 0151-157 27 944 |
+| ------- | ------- |
+| Feuerwehr | 112 |
+| Polizei Heringsdorf | 038378 / 2790 |
+| Bereitschaftsärzte | 116117 |
+| Taxi Herr Brinkmann | 038378 / 29109 |
+| Notfallnummer Hotel | 0151-157 27 944 |
 
+<br>
 
 ## Optiker / Hörgeräte
 
@@ -157,6 +158,7 @@ Taxi Brinkmann		038378 / 29109
 Ihre Zimmertelefone sind für deutschlandweite Gespräche freigeschaltet. Die Gebühren hierfür werden minutengenau erfasst und Ihnen beim Check-Out berechnet.
 Bitte wählen Sie eine führende „0“, um aus der internen Telefonanlage herauswählen zu können.
 Interne Gespräche sind unter folgenden Nummern möglich:
+
 
 | Teilnehmer    | Durchwahl |
 | ----          | ----      |
