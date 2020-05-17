@@ -12,11 +12,14 @@ author: Torsten Mohrbach
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Wer wir sind: "vorstellung"
+  Wissenswertes von A bis Z: "wissenswertes"
   Resources:
-    - Vorstellung: "vorstellung"
     - Wissenswertes von A bis Z: "wissenswertes"
-  Author's home: "https://www.germania-bansin.de"
+    - Geschichte: "geschichte"
+    - Minibar: "minibar"
+    - Fragebogen: "fragebogen"
+  Hotel-Website: "https://www.germania-bansin.de"
 
 # --- Logo --- #
 
@@ -29,7 +32,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/
 
 
 # --- Footer options --- #
