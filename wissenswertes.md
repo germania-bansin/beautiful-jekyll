@@ -98,6 +98,7 @@ Mit der Kutsche zum Forsthaus Fangel. Entspannen bei einer Fahrt durch den schö
 - Minimarkt im Kaiserstrand Beachhotel
 - REWE im Seepark
 - LIDL an der B111
+
 <br/>
 
 ## Lieblingsplätze
@@ -185,6 +186,7 @@ Unser WLAN erreichen Sie wie auf dem Aufsteller angegeben. Entweder mit einem ei
 | SSID | Netzwerkschlüssel (Kennwort)  |
 | ---- | ---- |
 | Germania Gast | germaniabansin |
+
 <br/>
 
 ## Zeitungen
