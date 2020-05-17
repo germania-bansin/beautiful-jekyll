@@ -1,4 +1,8 @@
 # --- Basic options --- #
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+url: "https://germania-bansin.github.io"
+baseurl: ""
 
 # Name of website
 title: Hotel Germania in Bansin
@@ -7,19 +11,19 @@ title: Hotel Germania in Bansin
 description: Zusätzliche Informationen für das Hotel Germania
 
 # Your name to show in the footer
-author: Torsten Mohrbach
+author: 
+  name: "Hotel Mohrbach & Jörg GbR, Hotel Germania"
+  email: "hotel@germania-bansin.de"
+  github: germania-bansin/germania-bansin.github.io
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Wer wir sind: "vorstellung"
   Wissenswertes von A bis Z: "wissenswertes"
-  Resources:
-    - Wissenswertes von A bis Z: "wissenswertes"
-    - Geschichte: "geschichte"
-    - Minibar: "minibar"
-    - Fragebogen: "fragebogen"
-  Hotel-Website: "https://www.germania-bansin.de"
+  Geschichte: "geschichte"
+  Minibar: "minibar"
+  Fragebogen: "fragebogen"
+  Zimmer und Buchung: "https://www.germania-bansin.de"
 
 # --- Logo --- #
 
@@ -32,7 +36,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /assets/img/
+# title-img: /assets/img/
 
 
 # --- Footer options --- #
@@ -41,11 +45,7 @@ title-img: /assets/img/
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  email: "hotel@germania-bansin.de"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -65,16 +65,17 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "www.germania-bansin.de"
 
 # Create a "tags" index page and make tags on each post clickable
-link-tags: true
+link-tags: false
+
 
 # Excerpt Word Length - Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 50
@@ -167,7 +168,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -209,5 +210,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
