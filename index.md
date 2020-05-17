@@ -1,7 +1,7 @@
 ---
 ---
 
-<img src="/assets/img/logo.png" title="Germania logo" alt="Germania logo" />
+<img src="/assets/img/logo-hotel-germania-breit.png" title="Germania logo" alt="Germania logo" />
 
 # DÜRFEN WIR UNS VORSTELLEN?
 
@@ -21,12 +21,3 @@ Herzlichst,
 
 
 Familie Jörg/Mohrbach
-
-
-
-<br> As of 19th September 2018, RECON is registered as a *not-for-profit*,
-*incorporated association* regulated by the French law (registration number
-W751246083), in accordance to the association law of 1st July 1901 and the
-decree of the 16th August 1901. For more information about the remit of RECON,
-check our official statutes in [English](documents/statutes_en_1.1.pdf) or in
-[French](documents/statutes_fr_1.1.pdf).
