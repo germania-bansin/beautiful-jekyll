@@ -10,10 +10,39 @@ html {
   font-size: 100%
 }
 
+/*
+Farbschema generiert auf 
+https://www.webmart.de/web/harmonische-farben/#ff8300:t:d:g:d 
+*/
+
+.myColor-0 { color: #ff8300; } // Flush Orange
+/* Kontraste: */
+.myColor-1 { color: #ff9e00; } // Orange Peel
+.myColor-2 { color: #b36f00; } // Pirate Gold
+.myColor-3 { color: #ffe7bf; } // Colonial White
+.myColor-4 { color: #ffcf80; } // Chardonnay
+
+.myColor-5 { color: #052ec7; } // International Klein Blue
+.myColor-6 { color: #03208b; } // Resolution Blue
+.myColor-7 { color: #c1ceff; } // Periwinkle
+.myColor-8 { color: #839dff; } // Malibu
+
+/* Tetraden: */
+.myColor-9 { color: #480099; } // Pigment Indigo
+.myColor-10 { color: #32006b; } // Christalle
+.myColor-11 { color: #ddbfff; } // Mauve
+.myColor-12 { color: #bc80ff; } // Heliotrope
+
+.myColor-13 { color: #ffea00; } // Turbo
+.myColor-14 { color: #b3a400; } // Buddha Gold
+.myColor-15 { color: #fffabf; } // Shalimar
+.myColor-16 { color: #fff580; } // Dolly
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
-  color: #404040;
+  /* color: #404040; */
+  color: .myColor-6;
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
   {% if site.page-img %}
@@ -126,8 +155,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: {{ site.navbar-col | default: "#F5F5F5" }};
-  border-bottom: 1px solid {{ site.navbar-border-col | default: "#EAEAEA" }};
+  background-color: {{ site.navbar-col | default: .myColor-3 }};
+  border-bottom: 1px solid {{ site.navbar-border-col | default: .myColor-5 }};
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
@@ -203,7 +232,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 800;
-  color: {{ site.navbar-text-col | default: "#404040" }};
+  color: {{ site.navbar-text-col | default: .myColor-0 }};
 }
 
 .navbar-toggler {
