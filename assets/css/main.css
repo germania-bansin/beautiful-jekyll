@@ -155,8 +155,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: {{ site.navbar-col | default: .myColor-3 }};
-  border-bottom: 1px solid {{ site.navbar-border-col | default: .myColor-5 }};
+  background-color: {{ site.navbar-col | default: #ffe7bf }};
+  border-bottom: 1px solid {{ site.navbar-border-col | default: #03208b }};
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
@@ -212,7 +212,7 @@ img {
 .navbar-custom .navbar-nav .nav-link:focus,
 .navbar-custom .navbar-nav .dropdown-item:hover,
 .navbar-custom .navbar-nav .dropdown-item:focus {
-  color: {{ site.hover-col | default: "#0085A1" }};
+  color: {{ site.hover-col | default: "#b36f00" }};
 }
 
 .navbar-custom .navbar-nav .nav-item {
@@ -232,7 +232,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 800;
-  color: {{ site.navbar-text-col | default: .myColor-0 }};
+  color: {{ site.navbar-text-col | default: #ff8300 }};
 }
 
 .navbar-toggler {
