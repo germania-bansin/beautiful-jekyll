@@ -111,7 +111,7 @@ Natürlich das **Meerzeit** im eigenen Haus!
 Aber machen Sie auch unbedingt einen Ausflug zum Waterblick, zu Café Knatter, zum Deutschen Haus in Ückeritz, zur Remise in Stolpe! Und wenn Sie in Bansin Abwechslung suchen, dann empfehlen wir gerne auch das Banzino im Hotel zur Post, die Ingelotte, den Fischkopp oder aber auch das Athen. Fragen Sie uns!
 
 ## Minibar
-Wir kennen die spontane Lust auf Snacks oder den Impuls mit dem Lieblingsmenschen genau jetzt eine kleine Flasche Sekt zu teilen. Dafür dürfen Sie sich gerne an der Bar gegen einen kleinen Beitrag bedienen. Sagen Sie uns auch unbedingt Bescheid, wenn wir etwas mehr auffüllen dürfen. Die Preisliste finden Sie im [Anhang](./minibar).
+Wir kennen die spontane Lust auf Snacks oder den Impuls mit dem Lieblingsmenschen genau jetzt eine kleine Flasche Sekt zu teilen. Dafür dürfen Sie sich gerne an der Bar gegen einen kleinen Beitrag bedienen. Sagen Sie uns auch unbedingt Bescheid, wenn wir etwas mehr auffüllen dürfen. Die Preisliste finden Sie im [Anhang](minibar).
 
 ## Notfallnummern
 
