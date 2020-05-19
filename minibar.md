@@ -4,7 +4,7 @@ title: Kleine Sünden
 subtitle: DÜRFEN WIR IHNEN ETWAS ANBIETEN?
 ---
 
-Unsere Preisliste
+Unsere Preisliste für die Artikel in der Minibar:
 
 | Artikel | Inhalt | Preis in € |
 | :---  | :---  | ---: |
