@@ -801,7 +801,7 @@ table {
 }
 table tr {
   border-top: 1px solid #cccccc;
-  background-color: #ffffff;
+  background-color: #000fff;
   margin: 0;
   padding: 0;
 }
