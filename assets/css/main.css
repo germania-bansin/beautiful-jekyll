@@ -42,7 +42,7 @@ body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   /* color: #404040; */
-  color: .myColor-6;
+  color: #03208b;
   position: relative;
   background-color: {{ site.page-col | default: "#fff000" }};
   {% if site.page-img %}
@@ -801,7 +801,7 @@ table {
 }
 table tr {
   border-top: 1px solid #cccccc;
-  background-color: #000fff;
+  background-color: #ffffff;
   margin: 0;
   padding: 0;
 }
