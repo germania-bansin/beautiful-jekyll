@@ -187,7 +187,7 @@ Unser WLAN erreichen Sie wie auf dem Aufsteller angegeben. Entweder mit einem ei
 | :----- | :----- |
 | Germania Gast | germaniabansin |
 
-<p>
+<p/>
 
 ## Zeitungen
 An der Rezeption und im Frühstücksraum haben wir Ihnen eine kleine Auswahl von regionalen und überregionalen Tageszeitungen zu Ihrer Verfügung ausgelegt. Bitte denken Sie daran, diese unseren anderen Gästen nach Gebrauch ebenfalls wieder zu überlassen.
