@@ -152,7 +152,7 @@ img {
   margin-top: -1.5625rem;
 }
 
-/* --- Navbar --- */
+/* --- Navbar --- new */
 
 .navbar-custom {
   background-color: #ffe7bf; /*{{ site.navbar-col | default: #ffe7bf }};*/
