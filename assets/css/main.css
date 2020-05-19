@@ -155,7 +155,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: {{ site.navbar-col | default: #ffe7bf }};
+  background-color: #ffe7bf; /*{{ site.navbar-col | default: #ffe7bf }};*/
   border-bottom: 1px solid {{ site.navbar-border-col | default: #03208b }};
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
