@@ -88,7 +88,7 @@ Falls Sie lieber ein kleineres, ein zusätzliches oder schlicht ein anderes Kopf
 Ob der Kunstpavillon Heringsdorf, das Hans-Werner Richter Haus oder das Atelier Otto Niemeyer-Holstein in Koserow: Sie finden hier sicherlich Unentdecktes und Inspirierendes.
 
 ## Kurkarte
-Die Kurkarte ist obligatorisch für alle Besucher in den Kaiserbädern. Neben den üblichen Angeboten (Kurkonzerte, Ortsführungen, Wanderungen und andere Veranstaltungen, gereinigte Strände und öffentliche Toiletten) berechtigt diese inzwischen auch zur kostenlosen Nutzung der UBB auf der gesamten Insel!
+Die Kurkarte ist obligatorisch für alle Besucher in den Kaiserbädern. Neben den üblichen Angeboten (Kurkonzerte, Ortsführungen, Wanderungen und andere Veranstaltungen, gereinigte Strände und öffentliche Toiletten) berechtigt diese inzwischen auch zur kostenlosen Nutzung des gesamten Busstreckennetzes der UBB auf unserer Insel!
 
 ## Kutschfahrten
 Mit der Kutsche zum Forsthaus Fangel. Entspannen bei einer Fahrt durch den schönen Küstenwald oder eine individuelle Tour geniessen. Wir sind Ihnen gerne behilflich bei der Planung. Fragen Sie uns!
@@ -179,14 +179,17 @@ Ihre Zimmer verfügen über LCD-TVs, die über unsere Satellitenanlage angeschlo
 Wir wechseln Ihnen jede Woche die Bettwäsche und täglich die Handtücher, die auf dem Boden liegen. Falls Sie zwischendurch mal Wäsche benötigen, so geben Sie uns bitte Bescheid.
 
 ## WLAN
-Unser WLAN erreichen Sie wie auf dem Aufsteller angegeben. Entweder mit einem einfachen QR-Code oder aber mit folgenden Zugangsdaten:
+Unser Gast-WLAN erreichen Sie mit folgenden Zugangsdaten:
 
 | SSID | Netzwerkschlüssel (Kennwort) |
 | :----- | :----- |
 | Germania Gast | germaniabansin |
 
 
-<br/>
+Alternativ können Sie das WLAN in Ihrem Gerät mit diesem QR-code anlegen:
+
+![Alt-Text](/assets/img/qrcode-gastzugang.png "QRCode WLAN Gastzugang")
+
 
 ## Zeitungen
 An der Rezeption und im Frühstücksraum haben wir Ihnen eine kleine Auswahl von regionalen und überregionalen Tageszeitungen zu Ihrer Verfügung ausgelegt. Bitte denken Sie daran, diese unseren anderen Gästen nach Gebrauch ebenfalls wieder zu überlassen.
